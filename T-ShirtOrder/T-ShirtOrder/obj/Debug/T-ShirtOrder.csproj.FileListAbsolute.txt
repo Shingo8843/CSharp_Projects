@@ -1,0 +1,10 @@
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\bin\Debug\T-ShirtOrder.exe.config
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\bin\Debug\T-ShirtOrder.exe
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\bin\Debug\T-ShirtOrder.pdb
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T-ShirtOrder.csprojAssemblyReference.cache
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T_ShirtOrder.Form1.resources
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T_ShirtOrder.Properties.Resources.resources
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T-ShirtOrder.csproj.GenerateResource.cache
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T-ShirtOrder.csproj.CoreCompileInputs.cache
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T-ShirtOrder.exe
+C:\Users\shing\source\repos\T-ShirtOrder\T-ShirtOrder\obj\Debug\T-ShirtOrder.pdb

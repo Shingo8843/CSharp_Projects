@@ -1,0 +1,4 @@
+C:\Users\shing\source\repos\student\student\obj\Debug\netcoreapp3.1\student.csprojAssemblyReference.cache
+C:\Users\shing\source\repos\student\student\obj\Debug\netcoreapp3.1\student.AssemblyInfoInputs.cache
+C:\Users\shing\source\repos\student\student\obj\Debug\netcoreapp3.1\student.AssemblyInfo.cs
+C:\Users\shing\source\repos\student\student\obj\Debug\netcoreapp3.1\student.csproj.CoreCompileInputs.cache

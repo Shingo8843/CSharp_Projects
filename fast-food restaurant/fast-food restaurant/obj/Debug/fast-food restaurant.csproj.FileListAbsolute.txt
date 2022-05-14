@@ -1,0 +1,10 @@
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\bin\Debug\fast-food restaurant.exe.config
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\bin\Debug\fast-food restaurant.exe
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\bin\Debug\fast-food restaurant.pdb
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast-food restaurant.csprojAssemblyReference.cache
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast_food_restaurant.Form1.resources
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast_food_restaurant.Properties.Resources.resources
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast-food restaurant.csproj.GenerateResource.cache
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast-food restaurant.csproj.CoreCompileInputs.cache
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast-food restaurant.exe
+C:\Users\shing\source\repos\fast-food restaurant\fast-food restaurant\obj\Debug\fast-food restaurant.pdb
